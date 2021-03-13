@@ -1,0 +1,30 @@
+{
+  "id": "2289069",
+  "name": "123",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13160280",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "14112862",
+      "name": "上",
+      "font_class": "shang",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "16853967",
+      "name": "下",
+      "font_class": "xia",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    }
+  ]
+}
